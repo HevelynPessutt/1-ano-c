@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-</html>
+</html lang=´pt-br`>
        <head>
-       <title>minha pagina10</title>
+       <meta charset=´UTF-8`>
+       <title>Danças da Inglaterra</title>
+
        </head>
-       </body> 
+       <body> 
+       		<h1>Curiosidades sobre a dança da inglaterra</h1>
+       		<h2> – English Cheese Rolling</h2>
+	   		<p>Essa com certeza é uma das tradições britânicas mais engraçadas, pois envolve várias pessoas descendo um morro correndo para pegar rodas de 4 quilos de queijo. Esse evento acontece anualmente em Coopers Hill em Gloucester, geralmente no feriado de primavera. Sempre dá acidente porque o morro é cheio de buracos, aí as pessoas tropeçam, saem rolando e atingem outros corredores haha</p>
+
+        	<P>Acredita-se que este festival tem origens nas celebrações pagãs do fim do inverno, durante as quais barris e arbustos eram rolados colina abaixo. Qualquer um pode participar.</P>
+
+      		  <p>Mas essa não é a única tradição em Gloucestershire que envolve queijo! Os habitantes de St. Briavels arremessam pão e queijo desde o século 13, quando o costume começou provavelmente como um pagamento pelo direito dos moradores de cortar madeira de uma floresta próxima.</p>
+
 
        </body>
+
 </html>
 
 
